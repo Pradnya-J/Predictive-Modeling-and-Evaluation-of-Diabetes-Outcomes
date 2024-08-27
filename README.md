@@ -1,4 +1,6 @@
 # Predictive-Modeling-and-Evaluation-of-Diabetes-Outcomes
+Data Set: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
 Description:
 
 - Developed a comprehensive diabetes prediction model using multiple classification techniques including Logistic Regression, Random Forest, K-Nearest Neighbors (KNN), and Linear Discriminant Analysis (LDA).
